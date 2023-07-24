@@ -1,0 +1,22 @@
+.div-1 , .div-2{
+    background-color: red;
+    /*display: block; Opción por defecto*/
+}
+
+.span-1{
+    background-color: aquamarine;
+    float: right;
+    /*display: inline; Opción dada por defecto*/
+}
+
+.span-2{
+    background-color: aquamarine;
+    float: left;
+    /*display: inline; Opción dada por defecto*/
+}
+
+.img {
+    width: 60px;
+    height: 60px;
+    /*display: inline-block; Opción por defecto*/
+}
