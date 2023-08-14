@@ -1,16 +1,17 @@
 //Componentes
-@import "Sass/componentes";
+@use "Sass/componentes";
 
 //Mixins 
-@import "Sass/mixins";
+@use "Sass/mixins";
 
 //Estilos
-@import "Sass/estilos";
+@use "Sass/estilos";
 
 // Paginas
 //Página principal
 //Página contacto
 //Página aviso legal
 
-
+//otros
+@use "Sass/builtin";
 
